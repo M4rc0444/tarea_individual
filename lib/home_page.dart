@@ -1,9 +1,9 @@
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:tarea_individual_marcoavila/const.dart';
-import 'package:tarea_individual_marcoavila/utils/my_button.dart';
-import 'package:tarea_individual_marcoavila/utils/result_message.dart';
+import 'package:tarea_individual/const.dart';
+import 'package:tarea_individual/utils/my_button.dart';
+import 'package:tarea_individual/utils/result_message.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
